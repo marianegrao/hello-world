@@ -1,2 +1,2 @@
 # hello-world 
-# Primeiro execicio: conhecendo novas ferramentas de programação. 
+# Primeiro execicío: conhecendo novas ferramentas de programação. 
